@@ -25,9 +25,3 @@ Gradient descent is an algorithm used to minimize a function iteratively by movi
 
 - Python 3.x
 - Required Python packages: `sympy`, `numpy`, `matplotlib`, `IPython`
-
-You can install the required packages using:
-
-```bash
-pip install -r requirements.txt
-```
