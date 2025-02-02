@@ -1,6 +1,6 @@
-# Gradient Descent Visualization
+# [Gradient Descent Visualization](https://github.com/ziadsalama95/gradient-descent-visualization/blob/main/gradient_descent_visualization.ipynb)
 
-Welcome! In this [notebook](https://github.com/ziadsalama95/gradient-descent-visualization/blob/main/gradient_descent_visualization.ipynb), we’ll explore **Gradient Descent (GD)**, one of the most important algorithms in machine learning and optimization. By the end of this notebook, you’ll understand how GD works, why it’s useful, and how to apply it to find the minimum of a function. Let’s dive in!
+Welcome! In this notebook, we’ll explore **Gradient Descent (GD)**, one of the most important algorithms in machine learning and optimization. By the end of this notebook, you’ll understand how GD works, why it’s useful, and how to apply it to find the minimum of a function. Let’s dive in!
 
 ---
 
@@ -97,10 +97,12 @@ Now that we’ve chosen a function, let’s apply Gradient Descent to find its m
 1. Start with an initial guess for $x$.
 2. Compute the gradient (derivative) at the current $x$.
 3. Update $x$ using the gradient descent rule:
-   $$
-   x_{\text{new}} = x_{\text{old}} - \alpha \cdot f'(x_{\text{old}})
-   $$
-4. Repeat until the gradient is close to zero or the change in $f(x)$ is very small.
+   
+$$
+x_{\text{new}} = x_{\text{old}} - \alpha \cdot \nabla f(x_{\text{old}})
+$$
+   
+5. Repeat until the gradient is close to zero or the change in $f(x)$ is very small.
 
 Here’s the code:
 
