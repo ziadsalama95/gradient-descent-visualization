@@ -183,7 +183,7 @@ The plot below shows the function $f(x)$ and the steps taken by Gradient Descent
 ## Key Takeaways
 
 1. **Learning Rate ($\alpha$):** Controls the step size. If it’s too large, the algorithm may overshoot the minimum; if it’s too small, convergence will be slow.
-2. **Gradient ($\nabla f(x)$):** Tells us the direction of the steepest ascent. We move in the opposite direction to minimize the function.
+2. **Gradient $\nabla f(x)$:** Tells us the direction of the steepest ascent. We move in the opposite direction to minimize the function.
 3. **Stopping Conditions:** The algorithm stops when the gradient is close to zero or the change in the function value is negligible.
 
 ---
