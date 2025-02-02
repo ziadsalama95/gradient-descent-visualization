@@ -1,6 +1,6 @@
 # Gradient Descent Visualization
 
-Welcome! In this notebook, we’ll explore **Gradient Descent (GD)**, one of the most important algorithms in machine learning and optimization. By the end of this notebook, you’ll understand how GD works, why it’s useful, and how to apply it to find the minimum of a function. Let’s dive in!
+Welcome! In this [notebook](https://github.com/ziadsalama95/gradient-descent-visualization/blob/main/gradient_descent_visualization.ipynb), we’ll explore **Gradient Descent (GD)**, one of the most important algorithms in machine learning and optimization. By the end of this notebook, you’ll understand how GD works, why it’s useful, and how to apply it to find the minimum of a function. Let’s dive in!
 
 ---
 
