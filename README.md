@@ -19,7 +19,7 @@ Where:
 - $\alpha$ is the **learning rate**, which controls the size of the steps.
 - $\nabla f(x_{\text{old}})$ is the **gradient** (derivative) of the function at $x_{\text{old}}$.
 
-![Gradient Descent](https://miro.medium.com/v2/resize:fit:1400/1*NqN7y0yIq0yZ6l8y5QZ5zg.png)
+![Gradient Descent](https://miro.medium.com/v2/resize:fit:754/1*LNbvbTC1yIU1Tm-VRO8IPg.png)
 
 ---
 
