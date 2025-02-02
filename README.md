@@ -79,9 +79,11 @@ print('----------------')
 
 ### Example
 If you choose $f(x) = x^2$, the output will be:
+
 $$
 f(x) = x^2
 $$
+
 $$
 f'(x) = 2x
 $$
